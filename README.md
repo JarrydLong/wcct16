@@ -1,4 +1,4 @@
-# WordCamp Cape Town 2016 - Jarryd's 2nd Working Copy
+# WordCamp Cape Town 2016 - Jarryd's 3rd Working Copy
 
 Workshop: Introduction to Continuous Integration with WordPress
 
